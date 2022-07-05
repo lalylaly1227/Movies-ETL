@@ -39,7 +39,8 @@ movies_metadata.csv file
 	ratings.csv file
 	Wikipedia-movies.json file		
 
-### Software: Jupyter Notebooks, PostgreSQL, pgAdmin
+### Software: 
+Jupyter Notebooks, PostgreSQL, pgAdmin
 
 ## Results
 I was able to clean up the data and remove unnecessary columns and join the files.  With the finished data, I was able to upload to the SQL server for further review.  
