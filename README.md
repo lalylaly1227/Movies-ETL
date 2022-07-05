@@ -26,6 +26,7 @@ With the data from Deliverable 1 transform the Kaggle data. Remove duplicates, r
 #### Deliverable 4: Create the Movie Database
 Using the files from the previous deliverable, create DataFrames and load the files to PostgreSQL, then read the data using pgAdmin and produce screenshots of the query results.
 <img width="805" alt="Extraction progress" src="https://user-images.githubusercontent.com/105124485/177228323-e1e8a0fa-0c42-4fce-a070-c30c976c31f0.png">
+
 <img width="82" alt="Del 4 movies_query" src="https://user-images.githubusercontent.com/105124485/177228328-63ff64aa-2bff-47c7-b27b-9db76330a751.png">
 <img width="146" alt="Del 4 ratings_query" src="https://user-images.githubusercontent.com/105124485/177228337-07338fdb-bc15-49a0-97a2-ba44b342a5e8.png">
 
