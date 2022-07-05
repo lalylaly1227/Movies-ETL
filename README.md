@@ -43,7 +43,7 @@ movies_metadata.csv file
 Jupyter Notebooks, PostgreSQL, pgAdmin
 
 ## Results
-I was able to clean up the data and remove unnecessary columns and join the files.  With the finished data, I was able to upload to the SQL server for further review.  
+I was able to clean up the data, remove unnecessary columns and join the files.  With the finished data, I was able to upload to the SQL server for further review.  
 
 ## Summary
 There was a of 6,052 rows in the movie table and 26,024,289 rows in the ratings table.
