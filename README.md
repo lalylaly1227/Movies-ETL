@@ -2,6 +2,7 @@
 
 ## Overview of the analysis
 To create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I will refactor the code from Module 8 to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
+<img width="354" alt="ETL" src="https://user-images.githubusercontent.com/105124485/177228704-70f32f19-6e77-4b75-bfd3-9e2048177408.png">
 
 ### Deliverable 1: Write an ETL Function to Read Three Data Files
 I loaded the data from the different file types. Then I cleaned the data. 
